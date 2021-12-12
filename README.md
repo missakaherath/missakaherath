@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Missaka Herath</h1>
-<h3 align="center">Passionate about computer science</h3>
+<h3 align="center">Passionate about Computer Science</h3>
 
 - 🔭 I’m currently working on **Automatic Student Feedback Analysis System**
 
