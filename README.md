@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Missaka Herath</h1>
 <h3 align="center">Passionate about Computer Science</h3>
 
-- 🔭 I’m currently working on **Automatic Student Feedback Analysis System**
+- 🔭 I’m currently working on project **Automatic Student Feedback Analysis**
 
 - 🌱 I’m currently learning **Adapters and Adapter Fusion**
 
